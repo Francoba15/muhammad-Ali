@@ -1,0 +1,18 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: blueviolet;
+}
+em{
+    font-weight: 300;
+}
+p{
+    text-align:justify;
+    text-overflow: clip;
+}
+body{
+    background-color: lightblue;
+}
+div{
+    text-align: center;
+}
